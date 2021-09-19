@@ -192,7 +192,7 @@ button {
 
   main {
     max-width: 750px;
-    padding: 2rem 3rem;
+    padding: 2rem 2.5rem;
   }
 
   header {
@@ -217,7 +217,7 @@ button {
   }
 
   #plz {
-    flex-basis: 23%;
+    flex-basis: calc(70% / 4);
   }
 
   .interestsDiv {
